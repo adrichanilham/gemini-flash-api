@@ -1,7 +1,7 @@
-![Hasil Tes generate-text](Dokumentasi-hasil/generate-text.png")
-![Hasil Tes generate-from-image](Dokumentasi-hasil\generate-from-image")
-![Hasil Tes generate-from-document](Dokumentasi-hasil\generate-from-document")
-![Hasil Tes generate-from-audio](Dokumentasi-hasil\generate-from-audio")
+![Hasil Tes generate-text](Dokumentasi-hasil/generate-text.png)
+![Hasil Tes generate-from-image](Dokumentasi-hasil/generate-from-image)
+![Hasil Tes generate-from-document](Dokumentasi-hasil/generate-from-document)
+![Hasil Tes generate-from-audio](Dokumentasi-hasil/generate-from-audio)
 
 # Gemini Flash API 🚀
 
